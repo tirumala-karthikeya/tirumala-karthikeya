@@ -4,7 +4,7 @@
 I'm a passionate Full Stack Developer with experience in building scalable web applications that provide seamless user experiences, using modern technologies. I love coding, learning new things, and sharing knowledge with the community.
 
 - 🌱 I'm currently pursuing my bachelor's degree in Computer Science and Engineering from Indian Institute of Information Technology, Kottayam.
-- 📝 I have previously worked as a Flutter Flow Developer intern at Voola Software Solutions.
+- 📝 I have previously worked as a Flutter Flow Developer intern at Komhar Software Solutions.
 - 🔭 I’m interested in Full Stack Development, ML and SDE roles.
 - 📈 I enjoy tackling challenging problems on LeetCode and strive to upskill myself in every possible manner.
 - 📫 How to reach me: j.karthikeya2004@gmail.com
