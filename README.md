@@ -29,19 +29,6 @@ I'm a passionate **Full Stack Developer** who enjoys building scalable products,
 
 ---
 
-## 📊 GitHub Stats & Activity  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tirumala-karthikeya&show_icons=true&theme=tokyonight" height="170" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tirumala-karthikeya&theme=tokyonight" height="170" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" height="170" />
-</p>
-
----
-
 ## 🔥 Featured Projects  
 
 ### ⭐ **FYPHire – Job Search Social Platform**
