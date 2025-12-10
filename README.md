@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="mailto:j.karthikeya2004@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/karthikeya-j-t-919776223/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/karthikeya-j-t/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://portfolio-jtk.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 </p>
 
@@ -32,8 +32,8 @@ I'm a passionate **Full Stack Developer** who enjoys building scalable products,
 ## 📊 GitHub Stats & Activity  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="170" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=tirumala-karthikeya&show_icons=true&theme=tokyonight" height="170" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tirumala-karthikeya&theme=tokyonight" height="170" />
 </p>
 
 <p align="center">
@@ -65,7 +65,7 @@ Real-time tracking, Stripe payments, restaurant recommendations.
 
 ## 🌐 Connect With Me  
 <p align="center">
-  <a href="https://www.linkedin.com/in/karthikeya-j-t-919776223/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" /></a>
+  <a href="https://www.linkedin.com/in/karthikeya-j-t/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" /></a>
   <a href="https://portfolio-jtk.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-black?style=flat&logo=vercel" /></a>
   <a href="https://github.com/YOUR_USERNAME"><img src="https://img.shields.io/badge/GitHub-000?style=flat&logo=github" /></a>
 </p>
